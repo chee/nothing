@@ -7,6 +7,6 @@ pages:
   artifacts:    
     paths:      
       - public   
-    only:
-      - default
+  only:
+    - default
 
